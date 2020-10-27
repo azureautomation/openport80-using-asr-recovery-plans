@@ -1,0 +1,20 @@
+{
+    "Author": "Ruturaj Dhekane",
+    "ContentSize": 1383,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/openport80-using-asr-recovery-plans/master/OpenPort80.ps1",
+    "DownloadCount": 1019,
+    "Id": "OpenPort80-using-ASR-951705e4",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 367,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-4-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook is a sample script to accompany the article Add Azure automation runbooks to recovery plans. The article is at https://azue.microsoft.com/documentation/articles/site-recovery-runbook-automation. use it with ASR recovery plans.",
+    "Title": "OpenPort80 using ASR Recovery plans",
+    "UpdatedDate": "2015-4-29T00:00:00",
+    "Url": "https://github.com/azureautomation/openport80-using-asr-recovery-plans",
+    "UserTags": "Disaster Recovery, Azure Site Recovery"
+}
